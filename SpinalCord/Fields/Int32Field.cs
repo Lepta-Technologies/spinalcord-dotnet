@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+using System;
 using SpinalCord.Exceptions;
 using SpinalCord.Utils;
 
@@ -51,7 +52,7 @@ namespace SpinalCord.Fields
             return _value;
         }
 
-        public new int GetBytesLength()
+        public override int GetBytesLength()
         {
             if (IsSet())
             {

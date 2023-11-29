@@ -26,7 +26,7 @@ namespace SpinalCord.Fields
             _columnName = columnName;
         }
 
-        public int GetBytesLength()
+        public virtual int GetBytesLength()
         {
             return 1;
         }

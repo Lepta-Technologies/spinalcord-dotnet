@@ -12,9 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-using System.Reflection;
-using System.Resources;
-using Microsoft.VisualStudio.TestPlatform.Common.Utilities;
 using SpinalCord.Exceptions;
 using SpinalCord.Fields;
 using SpinalCord.Utils;

@@ -52,7 +52,7 @@ namespace SpinalCord.Fields
             return _value;
         }
 
-        public new int GetBytesLength()
+        public override int GetBytesLength()
         {
             if (IsSet())
             {
