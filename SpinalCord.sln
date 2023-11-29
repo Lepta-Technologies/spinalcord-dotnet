@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinalCord", "SpinalCord\SpinalCord.csproj", "{28E1D02F-DEC9-4B37-9C5C-51E130D8D25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5DB467FB-D660-4315-9208-7784C89CB598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E1D02F-DEC9-4B37-9C5C-51E130D8D25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E1D02F-DEC9-4B37-9C5C-51E130D8D25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E1D02F-DEC9-4B37-9C5C-51E130D8D25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E1D02F-DEC9-4B37-9C5C-51E130D8D25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB467FB-D660-4315-9208-7784C89CB598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB467FB-D660-4315-9208-7784C89CB598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB467FB-D660-4315-9208-7784C89CB598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB467FB-D660-4315-9208-7784C89CB598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
